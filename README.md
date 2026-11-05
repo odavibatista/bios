@@ -58,6 +58,16 @@ dados públicos reais. A conta é fictícia e nada do que você fizer ali sai da
 | Coleta de dados, regras do índice e contrato da API | [bios-core-api](https://github.com/odavibatista/bios-core-api) |
 | Requisitos, rastreabilidade e método                | [bios-docs](https://github.com/odavibatista/bios-docs)         |
 
+## Privacidade e remoção de dados
+
+O BIOS trabalha com dados públicos ligados ao CNPJ. A razão social e o endereço de um empresário
+individual podem conter dados pessoais do titular, mesmo sendo públicos na Receita Federal. O CPF na
+razão social é mascarado, e sócios e contatos não são coletados.
+
+Para pedir a remoção de um cadastro, escreva para **odavibatista@hotmail.com** com o CNPJ e uma
+comprovação de que você é o titular. Os detalhes estão na
+[página de privacidade](https://bios-webapp.vercel.app/privacidade).
+
 ## Autor
 
 Projeto de **Davi Deosmar Batista Oliveira Miranda**, de São Paulo, no curso de Ciência da Computação

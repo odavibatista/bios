@@ -60,6 +60,16 @@ is in Portuguese.
 | Data collection, index rules and API contract | [bios-core-api](https://github.com/odavibatista/bios-core-api) |
 | Requirements, traceability and method         | [bios-docs](https://github.com/odavibatista/bios-docs)         |
 
+## Privacy and data removal
+
+BIOS works with public data linked to the CNPJ. A sole proprietor's registered name and address may
+contain the owner's personal data, even though they are public at the Federal Revenue Service. A CPF
+in the registered name is masked, and partners and contacts are not collected.
+
+To request the removal of a record, write to **odavibatista@hotmail.com** with the CNPJ and proof that
+you are the owner. The details are on the
+[privacy page](https://bios-webapp.vercel.app/privacidade).
+
 ## Author
 
 A project by **Davi Deosmar Batista Oliveira Miranda**, from São Paulo, for the Computer Science
